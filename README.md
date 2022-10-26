@@ -42,10 +42,12 @@ podemos poner un <sub>subíndice</sub> o también <sup>superíndice</sup>
 
 podemos escribir código en una línea `<h1>PRUEBA</h1>` de nuestro README
 
-bloque de código
+bloque de código con tres comillas
 
 ```
 git status
 git add
 git commit
 ```
+
+Se puede cambiar el color también con las comillas `#0969DA` en una frase
