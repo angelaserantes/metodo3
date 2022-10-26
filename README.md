@@ -30,3 +30,10 @@ blablabla -->
 
 *Con un asterisco ponemos la cursiva*
 
+~~también podemos tachar una frase~~
+
+**podemos poner _dos formatos_ en una misma línea**
+
+***aquí tenemos otro ejemplo***
+
+podemos poner un <sub>subíndice</sub>
