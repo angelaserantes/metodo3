@@ -39,3 +39,5 @@ blablabla -->
 podemos poner un <sub>subíndice</sub> o también <sup>superíndice</sup>
 
 > se puede escribir una cita
+
+podemos escribir código en una línea `<h1>PRUEBA</h1>` de nuestro README
