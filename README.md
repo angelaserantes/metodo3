@@ -25,3 +25,8 @@ blablabla -->
 ##### Y este lo es más
 
 ###### Y este es el más pequeño, los encabezados van como si fuera del h1 al h6
+
+**Se puede poner otro formato en la letra, como la negrita, con dos asteriscos**
+
+*Con un asterisco ponemos la cursiva*
+
