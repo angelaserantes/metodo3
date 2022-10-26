@@ -36,4 +36,4 @@ blablabla -->
 
 ***aquí tenemos otro ejemplo***
 
-podemos poner un <sub>subíndice</sub>
+podemos poner un <sub>subíndice</sub> o también <sup>superíndice</sup>
