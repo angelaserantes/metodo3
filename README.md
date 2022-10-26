@@ -50,4 +50,4 @@ git add
 git commit
 ```
 
-Se puede cambiar el color también con las comillas `#0969DA` en una frase
+Se puede cambiar el color también con las comillas `#0969DA` en una frase en pull requests
