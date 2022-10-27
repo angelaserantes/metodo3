@@ -25,4 +25,5 @@ Lista de tareas
 - [ ] hacer test de SI
 - [x] hacer tarea de LMSXI
 
-Podemos poner emoticonos: :grinning:
+Podemos poner emoticonos:
+ :grinning:
