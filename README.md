@@ -61,3 +61,5 @@ podemos crear hipervínculos
 ![This is an image](https://img.freepik.com/vector-gratis/plantilla-etiqueta-cohete-aislado_1308-62159.jpg?w=740&t=st=1666894194~exp=1666894794~hmac=7554224511e804c82a3f33ca63c31ce078b3d9b60a452a2e80dfef4c91d47af7)
 
 ![Mi_octopus](./src/img/octocat-1666893949056.png)
+
+Voy a continuar las  pruebas en el README2 de este repositorio
