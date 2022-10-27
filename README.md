@@ -50,7 +50,6 @@ git status
 git add
 git commit
 ```
-
 Se puede cambiar el color también con las comillas `#0969DA` en una frase en pull requests
 
 podemos crear hipervínculos
@@ -59,4 +58,4 @@ podemos crear hipervínculos
 
 [pruebaReadme2](/README2.md) enlazamos otro readme
 
-[imagen_de_internet](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fbaloncestoesp%2Fstatus%2F1571594353457631233&psig=AOvVaw2FzNaADC60COERGcgZwoZE&ust=1666979832631000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjs4YD-gPsCFQAAAAAdAAAAABAD)
+![imagen_de_internet](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fbaloncestoesp%2Fstatus%2F1571594353457631233&psig=AOvVaw2FzNaADC60COERGcgZwoZE&ust=1666979832631000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjs4YD-gPsCFQAAAAAdAAAAABAD)
