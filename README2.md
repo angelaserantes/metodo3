@@ -25,5 +25,4 @@
 - [ ] hacer test de SI
 - [x] hacer tarea de LMSXI
 
-@danielcastelao/ esto está bien?
 
