@@ -18,3 +18,9 @@ Nested lists
     - elemento 2.1
 - elemento 3
     - elemento 3.1
+
+
+Lista de tareas
+
+- [] hacer test de SI
+- [x] hacer tarea de LMSXI
