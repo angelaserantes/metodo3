@@ -1,16 +1,16 @@
 # Esto es otro readme para enlazarlo en el anterior
 
-**También podemos hacer una lista**
+También podemos hacer una lista
 - elemento 1
 - elemento 2
 - elemento 3
 
-**Y una lista numérica**
+Y una lista numérica
 1. elemento 1
 2. elemento 2
 3. elemento 3
 
-**Nested lists**
+Nested lists
 
 - elemento 1
     - elemento 1.1
@@ -20,9 +20,7 @@
     - elemento 3.1
 
 
-**Lista de tareas**
+Lista de tareas
 
 - [ ] hacer test de SI
 - [x] hacer tarea de LMSXI
-
-
