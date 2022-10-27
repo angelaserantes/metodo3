@@ -27,3 +27,8 @@ Lista de tareas
 
 Podemos poner emoticonos:
  :grinning:
+
+ :space_invader:	
+
+ Podemos hacer anotaciones a pie de página [^1]
+ [^1]prueba anotación pie de página
