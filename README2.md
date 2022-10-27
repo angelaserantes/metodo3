@@ -22,5 +22,5 @@ Nested lists
 
 Lista de tareas
 
-- [] hacer test de SI
+- [ ] hacer test de SI
 - [x] hacer tarea de LMSXI
