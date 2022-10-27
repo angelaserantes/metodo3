@@ -30,8 +30,8 @@ Podemos poner emoticonos:
 
  :space_invader:	
 
- Podemos hacer anotaciones a pie de página [^1]
+ Podemos hacer anotaciones a pie de página [^1].
  
  
  
- [^1]prueba anotación pie de página
+ [^1]: prueba anotación pie de página
