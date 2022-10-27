@@ -58,4 +58,4 @@ podemos crear hipervínculos
 
 [pruebaReadme2](/README2.md) enlazamos otro readme
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atlantico.net%2Farticulo%2Fdeportes%2Fespana-gana-francia-conquista-eurobasket-historico%2F20220918222829940196.html&psig=AOvVaw2FzNaADC60COERGcgZwoZE&ust=1666979832631000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjs4YD-gPsCFQAAAAAdAAAAABAI)
