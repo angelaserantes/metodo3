@@ -58,4 +58,4 @@ podemos crear hipervínculos
 
 [pruebaReadme2](/README2.md) enlazamos otro readme
 
-![imagen_de_internet](https://pbs.twimg.com/media/Fc9srMlWYAAQ4Jg?format=jpg&name=large)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
