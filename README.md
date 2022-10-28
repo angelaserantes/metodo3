@@ -13,7 +13,7 @@
 modificacion metodo 3
 blablabla -->
 
-# Pruebas README 
+# PruebasREADME 
 require # Pruebas README
 
 ## Esto es otro ejercicio de LMSXI
