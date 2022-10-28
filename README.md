@@ -14,7 +14,6 @@ modificacion metodo 3
 blablabla -->
 
 # PruebasREADME 
-require # Pruebas README
 
 ## Esto es otro ejercicio de LMSXI
 

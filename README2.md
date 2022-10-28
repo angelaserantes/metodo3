@@ -31,6 +31,7 @@ Podemos poner emoticonos:
  :space_invader:	
 
  Podemos hacer anotaciones a pie de página [^1].
+ Segunda anotación [^2]
  
  Podemos hacer un diagrama de fujo simple
 
@@ -41,5 +42,8 @@ graph TD;
     diagrama-->flujo;
     de-->flujo;
 ```
+
+
  
  [^1]: prueba anotación pie de página
+ [^2]: podemos hacer varias anotaciones
