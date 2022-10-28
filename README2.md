@@ -32,6 +32,14 @@ Podemos poner emoticonos:
 
  Podemos hacer anotaciones a pie de página [^1].
  
- 
+ Podemos hacer un diagrama de fujo simple
+
+ ```mermaid
+graph TD;
+    esto-->es;
+    una-->prueba;
+    de-->diagrama;
+    de-->fujo;
+```
  
  [^1]: prueba anotación pie de página
