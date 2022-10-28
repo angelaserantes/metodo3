@@ -36,10 +36,10 @@ Podemos poner emoticonos:
 
  ```mermaid
 graph TD;
-    esto-->es;
-    una-->prueba;
-    de-->diagrama;
-    de-->fujo;
+    prueba-->diagrama;
+    prueba-->de;
+    diagrama-->flujo;
+    de-->flujo;
 ```
  
  [^1]: prueba anotación pie de página
