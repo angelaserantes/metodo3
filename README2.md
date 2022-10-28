@@ -46,4 +46,5 @@ graph TD;
 
  
  [^1]: prueba anotación pie de página
+ 
  [^2]: podemos hacer varias anotaciones
